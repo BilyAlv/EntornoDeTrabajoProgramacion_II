@@ -1,0 +1,14 @@
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\bin\Debug\net8.0\ProyectoParaLosEstudiantes.exe
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\bin\Debug\net8.0\ProyectoParaLosEstudiantes.deps.json
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\bin\Debug\net8.0\ProyectoParaLosEstudiantes.runtimeconfig.json
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\bin\Debug\net8.0\ProyectoParaLosEstudiantes.dll
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\bin\Debug\net8.0\ProyectoParaLosEstudiantes.pdb
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\obj\Debug\net8.0\ProyectoParaLosEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\obj\Debug\net8.0\ProyectoParaLosEstudiantes.AssemblyInfoInputs.cache
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\obj\Debug\net8.0\ProyectoParaLosEstudiantes.AssemblyInfo.cs
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\obj\Debug\net8.0\ProyectoParaLosEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\obj\Debug\net8.0\ProyectoParaLosEstudiantes.dll
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\obj\Debug\net8.0\refint\ProyectoParaLosEstudiantes.dll
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\obj\Debug\net8.0\ProyectoParaLosEstudiantes.pdb
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\obj\Debug\net8.0\ProyectoParaLosEstudiantes.genruntimeconfig.cache
+C:\Users\Bily Alvarez\source\repos\ProyectoParaLosEstudiantes\ProyectoParaLosEstudiantes\obj\Debug\net8.0\ref\ProyectoParaLosEstudiantes.dll
