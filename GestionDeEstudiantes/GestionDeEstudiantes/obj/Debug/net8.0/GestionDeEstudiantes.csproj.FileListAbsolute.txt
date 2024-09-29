@@ -1,0 +1,14 @@
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\bin\Debug\net8.0\GestionDeEstudiantes.exe
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\bin\Debug\net8.0\GestionDeEstudiantes.deps.json
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\bin\Debug\net8.0\GestionDeEstudiantes.runtimeconfig.json
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\bin\Debug\net8.0\GestionDeEstudiantes.dll
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\bin\Debug\net8.0\GestionDeEstudiantes.pdb
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\obj\Debug\net8.0\GestionDeEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\obj\Debug\net8.0\GestionDeEstudiantes.AssemblyInfoInputs.cache
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\obj\Debug\net8.0\GestionDeEstudiantes.AssemblyInfo.cs
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\obj\Debug\net8.0\GestionDeEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\obj\Debug\net8.0\GestionDeEstudiantes.dll
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\obj\Debug\net8.0\refint\GestionDeEstudiantes.dll
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\obj\Debug\net8.0\GestionDeEstudiantes.pdb
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\obj\Debug\net8.0\GestionDeEstudiantes.genruntimeconfig.cache
+C:\Users\Bily Alvarez\source\repos\GestionDeEstudiantes\GestionDeEstudiantes\obj\Debug\net8.0\ref\GestionDeEstudiantes.dll
