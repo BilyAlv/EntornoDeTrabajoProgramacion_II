@@ -1,0 +1,14 @@
+C:\Users\Bily Alvarez\Pictures\TallerLINQ\TallerLINQ\bin\Debug\TallerLINQ.exe.config
+C:\Users\Bily Alvarez\Pictures\TallerLINQ\TallerLINQ\bin\Debug\TallerLINQ.exe
+C:\Users\Bily Alvarez\Pictures\TallerLINQ\TallerLINQ\bin\Debug\TallerLINQ.pdb
+C:\Users\Bily Alvarez\Pictures\TallerLINQ\TallerLINQ\obj\Debug\TallerLINQ.csproj.AssemblyReference.cache
+C:\Users\Bily Alvarez\Pictures\TallerLINQ\TallerLINQ\obj\Debug\TallerLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Bily Alvarez\Pictures\TallerLINQ\TallerLINQ\obj\Debug\TallerLINQ.exe
+C:\Users\Bily Alvarez\Pictures\TallerLINQ\TallerLINQ\obj\Debug\TallerLINQ.pdb
+C:\Users\Bily Alvarez\Desktop\TallerLINQ\TallerLINQ\bin\Debug\TallerLINQ.exe.config
+C:\Users\Bily Alvarez\Desktop\TallerLINQ\TallerLINQ\bin\Debug\TallerLINQ.exe
+C:\Users\Bily Alvarez\Desktop\TallerLINQ\TallerLINQ\bin\Debug\TallerLINQ.pdb
+C:\Users\Bily Alvarez\Desktop\TallerLINQ\TallerLINQ\obj\Debug\TallerLINQ.csproj.AssemblyReference.cache
+C:\Users\Bily Alvarez\Desktop\TallerLINQ\TallerLINQ\obj\Debug\TallerLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Bily Alvarez\Desktop\TallerLINQ\TallerLINQ\obj\Debug\TallerLINQ.exe
+C:\Users\Bily Alvarez\Desktop\TallerLINQ\TallerLINQ\obj\Debug\TallerLINQ.pdb
