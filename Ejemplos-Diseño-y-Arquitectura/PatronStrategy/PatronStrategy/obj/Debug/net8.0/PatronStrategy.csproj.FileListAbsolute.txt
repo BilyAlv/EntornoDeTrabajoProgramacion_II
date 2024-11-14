@@ -1,0 +1,14 @@
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\bin\Debug\net8.0\PatronStrategy.exe
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\bin\Debug\net8.0\PatronStrategy.deps.json
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\bin\Debug\net8.0\PatronStrategy.runtimeconfig.json
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\bin\Debug\net8.0\PatronStrategy.dll
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\bin\Debug\net8.0\PatronStrategy.pdb
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\obj\Debug\net8.0\PatronStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\obj\Debug\net8.0\PatronStrategy.AssemblyInfoInputs.cache
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\obj\Debug\net8.0\PatronStrategy.AssemblyInfo.cs
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\obj\Debug\net8.0\PatronStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\obj\Debug\net8.0\PatronStrategy.dll
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\obj\Debug\net8.0\refint\PatronStrategy.dll
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\obj\Debug\net8.0\PatronStrategy.pdb
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\obj\Debug\net8.0\PatronStrategy.genruntimeconfig.cache
+C:\Users\Bily Alvarez\source\repos\PatronStrategy\PatronStrategy\obj\Debug\net8.0\ref\PatronStrategy.dll

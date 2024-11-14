@@ -1,0 +1,7 @@
+C:\Users\Bily Alvarez\source\repos\AppGestionProductos\AppGestionProductos\bin\Debug\AppGestionProductos.exe.config
+C:\Users\Bily Alvarez\source\repos\AppGestionProductos\AppGestionProductos\bin\Debug\AppGestionProductos.exe
+C:\Users\Bily Alvarez\source\repos\AppGestionProductos\AppGestionProductos\bin\Debug\AppGestionProductos.pdb
+C:\Users\Bily Alvarez\source\repos\AppGestionProductos\AppGestionProductos\obj\Debug\AppGestionProductos.csproj.AssemblyReference.cache
+C:\Users\Bily Alvarez\source\repos\AppGestionProductos\AppGestionProductos\obj\Debug\AppGestionProductos.csproj.CoreCompileInputs.cache
+C:\Users\Bily Alvarez\source\repos\AppGestionProductos\AppGestionProductos\obj\Debug\AppGestionProductos.exe
+C:\Users\Bily Alvarez\source\repos\AppGestionProductos\AppGestionProductos\obj\Debug\AppGestionProductos.pdb

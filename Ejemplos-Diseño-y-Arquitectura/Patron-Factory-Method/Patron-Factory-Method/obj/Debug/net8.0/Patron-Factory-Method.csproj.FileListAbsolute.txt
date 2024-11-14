@@ -1,0 +1,14 @@
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\bin\Debug\net8.0\Patron-Factory-Method.exe
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\bin\Debug\net8.0\Patron-Factory-Method.deps.json
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\bin\Debug\net8.0\Patron-Factory-Method.runtimeconfig.json
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\bin\Debug\net8.0\Patron-Factory-Method.dll
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\bin\Debug\net8.0\Patron-Factory-Method.pdb
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\obj\Debug\net8.0\Patron-Factory-Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\obj\Debug\net8.0\Patron-Factory-Method.AssemblyInfoInputs.cache
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\obj\Debug\net8.0\Patron-Factory-Method.AssemblyInfo.cs
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\obj\Debug\net8.0\Patron-Factory-Method.csproj.CoreCompileInputs.cache
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\obj\Debug\net8.0\Patron-Factory-Method.dll
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\obj\Debug\net8.0\refint\Patron-Factory-Method.dll
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\obj\Debug\net8.0\Patron-Factory-Method.pdb
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\obj\Debug\net8.0\Patron-Factory-Method.genruntimeconfig.cache
+C:\Users\Bily Alvarez\source\repos\Patron-Factory-Method\Patron-Factory-Method\obj\Debug\net8.0\ref\Patron-Factory-Method.dll

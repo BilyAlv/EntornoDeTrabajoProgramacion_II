@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bily Alvarez\\source\\repos\\AppGestionProductos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF3A293-A628-4DE4-8932-95DE58181CD4}|AppGestionProductos\\AppGestionProductos.csproj|c:\\users\\bily alvarez\\source\\repos\\appgestionproductos\\appgestionproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF3A293-A628-4DE4-8932-95DE58181CD4}|AppGestionProductos\\AppGestionProductos.csproj|solutionrelative:appgestionproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF3A293-A628-4DE4-8932-95DE58181CD4}|AppGestionProductos\\AppGestionProductos.csproj|c:\\users\\bily alvarez\\source\\repos\\appgestionproductos\\appgestionproductos\\bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF3A293-A628-4DE4-8932-95DE58181CD4}|AppGestionProductos\\AppGestionProductos.csproj|solutionrelative:appgestionproductos\\bll\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF3A293-A628-4DE4-8932-95DE58181CD4}|AppGestionProductos\\AppGestionProductos.csproj|c:\\users\\bily alvarez\\source\\repos\\appgestionproductos\\appgestionproductos\\dal\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF3A293-A628-4DE4-8932-95DE58181CD4}|AppGestionProductos\\AppGestionProductos.csproj|solutionrelative:appgestionproductos\\dal\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF3A293-A628-4DE4-8932-95DE58181CD4}|AppGestionProductos\\AppGestionProductos.csproj|c:\\users\\bily alvarez\\source\\repos\\appgestionproductos\\appgestionproductos\\dal\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF3A293-A628-4DE4-8932-95DE58181CD4}|AppGestionProductos\\AppGestionProductos.csproj|solutionrelative:appgestionproductos\\dal\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF3A293-A628-4DE4-8932-95DE58181CD4}|AppGestionProductos\\AppGestionProductos.csproj|c:\\users\\bily alvarez\\source\\repos\\appgestionproductos\\appgestionproductos\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF3A293-A628-4DE4-8932-95DE58181CD4}|AppGestionProductos\\AppGestionProductos.csproj|solutionrelative:appgestionproductos\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Bily Alvarez\\source\\repos\\AppGestionProductos\\AppGestionProductos\\BLL\\ProductService.cs",
+              "RelativeDocumentMoniker": "AppGestionProductos\\BLL\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Bily Alvarez\\source\\repos\\AppGestionProductos\\AppGestionProductos\\BLL\\ProductService.cs",
+              "RelativeToolTip": "AppGestionProductos\\BLL\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:58:56.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bily Alvarez\\source\\repos\\AppGestionProductos\\AppGestionProductos\\DAL\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "AppGestionProductos\\DAL\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Bily Alvarez\\source\\repos\\AppGestionProductos\\AppGestionProductos\\DAL\\ProductRepository.cs",
+              "RelativeToolTip": "AppGestionProductos\\DAL\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:57:23.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bily Alvarez\\source\\repos\\AppGestionProductos\\AppGestionProductos\\DAL\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "AppGestionProductos\\DAL\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Bily Alvarez\\source\\repos\\AppGestionProductos\\AppGestionProductos\\DAL\\IProductRepository.cs",
+              "RelativeToolTip": "AppGestionProductos\\DAL\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:53:55.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Bily Alvarez\\source\\repos\\AppGestionProductos\\AppGestionProductos\\DAL\\Product.cs",
+              "RelativeDocumentMoniker": "AppGestionProductos\\DAL\\Product.cs",
+              "ToolTip": "C:\\Users\\Bily Alvarez\\source\\repos\\AppGestionProductos\\AppGestionProductos\\DAL\\Product.cs",
+              "RelativeToolTip": "AppGestionProductos\\DAL\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:52:16.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bily Alvarez\\source\\repos\\AppGestionProductos\\AppGestionProductos\\Program.cs",
+              "RelativeDocumentMoniker": "AppGestionProductos\\Program.cs",
+              "ToolTip": "C:\\Users\\Bily Alvarez\\source\\repos\\AppGestionProductos\\AppGestionProductos\\Program.cs",
+              "RelativeToolTip": "AppGestionProductos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:50:38.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

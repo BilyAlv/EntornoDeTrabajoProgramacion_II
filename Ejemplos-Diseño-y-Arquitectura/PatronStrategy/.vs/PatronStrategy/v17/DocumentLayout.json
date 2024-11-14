@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bily Alvarez\\source\\repos\\PatronStrategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA821E2-523F-47F7-89A4-AE7BDB33EECB}|PatronStrategy\\PatronStrategy.csproj|c:\\users\\bily alvarez\\source\\repos\\patronstrategy\\patronstrategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA821E2-523F-47F7-89A4-AE7BDB33EECB}|PatronStrategy\\PatronStrategy.csproj|solutionrelative:patronstrategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bily Alvarez\\source\\repos\\PatronStrategy\\PatronStrategy\\Program.cs",
+              "RelativeDocumentMoniker": "PatronStrategy\\Program.cs",
+              "ToolTip": "C:\\Users\\Bily Alvarez\\source\\repos\\PatronStrategy\\PatronStrategy\\Program.cs",
+              "RelativeToolTip": "PatronStrategy\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:08:23.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
